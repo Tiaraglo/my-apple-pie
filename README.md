@@ -37,5 +37,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Live Preview here : https://my-apple-pie.vercel.app
 
-Public Page
+Public Page (accessible without signing up)
 ![alt text](myapplepie_1.png)
+
+Product Page
+![alt text](myapplepie_3.png)
+
+SignUp Page (If you don't have an account yet, you can register)
+![alt text](myapplepie_signin.png)
+
+MyWishlist Page (Logged-in users can add or remove products from their wishlist collection page.)
+![alt text](myapplepie_wishlist.png)
